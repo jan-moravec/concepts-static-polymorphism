@@ -1,0 +1,7 @@
+---
+Checks:          '*,-llvmlibc-*,-bugprone-exception-escape,-modernize-use-trailing-return-type'
+WarningsAsErrors: '1'
+HeaderFilterRegex: ''
+FormatStyle:     none
+
+
